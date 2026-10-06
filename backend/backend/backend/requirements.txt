@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+google-play-scraper
+nltk
+scikit-learn
